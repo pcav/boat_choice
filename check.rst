@@ -39,7 +39,7 @@ Dotazioni standard da verificare
 * ancora di sicurezza
 
 Manutenzioni da controllare
-============================
+=================================================
 
 * data vele
 * data scotte e drizze
@@ -54,7 +54,7 @@ Manutenzioni da controllare
 * Prese a mare + valvole
 
 Altre verifiche
-==============
+=================================================
 
 * verificare che la barca non abbia tallonato 
 * verificare non ci siano altri segni di colpi nella carena
