@@ -1,3 +1,37 @@
+
+Caratteristiche barca - nuova e usata - verifiche a terra e in mare
+=================================================
+
+* dimensione / tipo della deriva, tirante acqua, stabilità barca
+* se >= 40 piedi: elica di prua
+* corrimano, antisdrucciolo esterno e interno, porte che si aprono e chiudono durante navigazione, rumore motore durante navigazione, accessbilità motore
+* provare la barca e vedere se rimonta bene al vento (trovare polari e verificare durante navigazione)
+* vedere se possibile fare manovre in solitaria (i.e. dimensione vele e cime che vengono nel pozzetto, posizione della randa rispetto al timone, altezza boma etc.)
+* potenza del motore (verificare velocità max a pieno motore senza vela in rispetto alla lunghezza della barca)
+* direzione in cui gira l'elica e vedere come va a marcia indietro
+
+Dotazioni standard da verificare
+=================================================
+
+* dotazioni di sicurezza complete oltre 12 miglia
+* sprayhood + bimini
+* GPS, log, ecoscandaglio
+* autopilota
+* stereo/CD
+* wc marino/pompa manuale
+* doccetta pompa elettrica
+* pompa acqua di mare all'acquaio 
+* cucinetta 2 fuochi e forno; lavello separato
+* un genoa arrotolabile
+* una tormentina
+* strallo volante per mettere la tormentina con il genoa arrotolato
+* una randa con almeno 2 mani di terzaroli, magari 3
+* cuscini pozzetto con fodere cotone
+* doccetta wc
+* pompa sentina manuale e elettrica
+* ancora di sicurezza
+
+
 Dotazioni non standard utili
 =================================================
 
@@ -18,31 +52,11 @@ Dotazioni non standard utili
 * no randa arrotolabile
 * no sartie volanti
 
-Dotazioni standard da verificare
+Manutenzioni da controllare - barca usata 
 =================================================
 
-* dotazioni di sicurezza complete oltre 12 miglia
-* sprayhood + bimini
-* GPS, log, ecoscandaglio
-* autopilota
-* stereo/CD
-* wc marino/pompa manuale
-* doccetta pompa elettrica
-* cucinetta 2 fuochi e forno; lavello separato
-* un genoa arrotolabile
-* una tormentina
-* strallo volante per mettere la tormentina con il genoa arrotolato
-* una randa con almeno 2 mani di terzaroli, magari 3
-* cuscini pozzetto con fodere cotone
-* doccetta wc
-* pompa sentina manuale e elettrica
-* ancora di sicurezza
-
-Manutenzioni da controllare
-=================================================
-
-* data vele
-* data scotte e drizze
+* data vele (randa, genoa, tormentina, spinnaker)
+* data scotte e drizze (randa, genoa, tormentina, spinnaker)
 * ore motore
 * data motore tender 
 * data sartie
@@ -51,18 +65,8 @@ Manutenzioni da controllare
 * verniciatura legni
 * data antivegetativa
 * controllo osmosi
-* Prese a mare + valvole
-
-Altre verifiche
-=================================================
-
+* Prese a mare + valvole + log
 * verificare che la barca non abbia tallonato 
 * verificare non ci siano altri segni di colpi nella carena
-* tirante d'acqua (cioè altezza chiglia)
-* quadro elettrico
-* spinnaker e scotte e cime associate
-* direzione in cui gira l'elica e vedere come va a marcia indietro
-* >= 40 piedi: elica di prua)
-* pompa acqua al lavandino 
-* provare la barca e vedere se rimonta bene al vento
-* vedere se possibile fare manovre in solitaria
+* descrizione quadro elettrico
+
