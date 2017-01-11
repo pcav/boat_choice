@@ -76,3 +76,6 @@ Link offerte barche usate
 * Feeling 356 : https://www.leboncoin.fr/nautisme/1008934742.htm?ca=12_s
 * Feeling 1040 : https://www.leboncoin.fr/nautisme/988727376.htm?ca=12_s
 * Wauquiez : https://www.leboncoin.fr/nautisme/1004646826.htm?ca=12_s
+* First 31.7 : https://www.leboncoin.fr/nautisme/1077091509.htm?ca=12_s
+* First 33.7: https://www.leboncoin.fr/nautisme/1073922569.htm?ca=12_s
+
