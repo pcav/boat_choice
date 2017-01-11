@@ -70,3 +70,9 @@ Manutenzioni da controllare - barca usata
 * verificare non ci siano altri segni di colpi nella carena
 * descrizione quadro elettrico
 
+Link offerte barche usate
+=================================================
+
+* Feeling 356 : https://www.leboncoin.fr/nautisme/1008934742.htm?ca=12_s
+* Feeling 1040 : https://www.leboncoin.fr/nautisme/988727376.htm?ca=12_s
+* Wauquiez : https://www.leboncoin.fr/nautisme/1004646826.htm?ca=12_s
