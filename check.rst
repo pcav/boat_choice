@@ -78,7 +78,6 @@ Link offerte barche usate
 * Wauquiez : https://www.leboncoin.fr/nautisme/1004646826.htm?ca=12_s
 * First 31.7 : https://www.leboncoin.fr/nautisme/1077091509.htm?ca=12_s
 * First 33.7: https://www.leboncoin.fr/nautisme/1073922569.htm?ca=12_s
-* Bavaria 31: https://www.leboncoin.fr/nautisme/1077623150.htm?ca=12_s
 
 * www.annoncesbateau.com
 
