@@ -2,7 +2,7 @@
 Caratteristiche barca - nuova e usata - verifiche a terra e in mare
 =================================================
 
-* dimensione / tipo della deriva, tirante acqua, stabilità barca
+* dimensione / tipo della deriva, pescaggio, stabilità barca
 * se >= 40 piedi: elica di prua
 * corrimano, antisdrucciolo esterno e interno, porte che si aprono e chiudono durante navigazione, rumore motore durante navigazione, accessbilità motore
 * provare la barca e vedere se rimonta bene al vento (trovare polari e verificare durante navigazione)
