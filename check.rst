@@ -78,6 +78,6 @@ Link offerte barche usate
 * Wauquiez : https://www.leboncoin.fr/nautisme/1004646826.htm?ca=12_s http://bluewaterboats.org/wauquiez-pretorien-35/
 * First 31.7 : https://www.leboncoin.fr/nautisme/1077091509.htm?ca=12_s (IMHO da regata, non da viaggio?)
 * First 33.7: https://www.leboncoin.fr/nautisme/1073922569.htm?ca=12_s
-* Janneau (33i, 36i, 349, ...)
+* Janneau (33i, 36i, 349, ...) e.g. http://sailboatdata.com/viewrecord.asp?class_id=6176
 
 * www.annoncesbateau.com
