@@ -79,5 +79,6 @@ Link offerte barche usate
 * First 31.7 : https://www.leboncoin.fr/nautisme/1077091509.htm?ca=12_s (IMHO da regata, non da viaggio?)
 * First 33.7: https://www.leboncoin.fr/nautisme/1073922569.htm?ca=12_s
 * Janneau (33i, 36i, 349, ...) e.g. http://sailboatdata.com/viewrecord.asp?class_id=6176
+* http://www.annoncesbateau.com/voilier/annonces-modele-leguen+hemidy-brise+de+mer+34.html http://www.finot.com/bateaux/ancienbt/brises/brise34/brise34.htm http://sailboatdata.com/viewrecord.asp?class_id=7418
 
 * www.annoncesbateau.com
