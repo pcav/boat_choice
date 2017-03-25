@@ -2,6 +2,7 @@
 Caratteristiche barca - nuova e usata - verifiche a terra e in mare
 =================================================
 
+* evitare teak in coperta
 * dimensione / tipo della deriva, pescaggio, stabilità barca
 * se >= 40 piedi: elica di prua
 * corrimano, antisdrucciolo esterno e interno, porte che si aprono e chiudono durante navigazione, rumore motore durante navigazione, accessbilità motore
@@ -36,6 +37,7 @@ Dotazioni non standard utili
 =================================================
 
 * AIS
+* EPIRB
 * webasto
 * pilota a vento
 * dissalatore
