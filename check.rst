@@ -2,7 +2,6 @@
 Caratteristiche barca - nuova e usata - verifiche a terra e in mare
 =================================================
 
-* evitare teak in coperta
 * dimensione / tipo della deriva, pescaggio, stabilità barca
 * se >= 40 piedi: elica di prua
 * corrimano, antisdrucciolo esterno e interno, porte che si aprono e chiudono durante navigazione, rumore motore durante navigazione, accessbilità motore
@@ -10,6 +9,11 @@ Caratteristiche barca - nuova e usata - verifiche a terra e in mare
 * vedere se possibile fare manovre in solitaria (i.e. dimensione vele e cime che vengono nel pozzetto, posizione della randa rispetto al timone, altezza boma etc.)
 * potenza del motore (verificare velocità max a pieno motore senza vela in rispetto alla lunghezza della barca)
 * direzione in cui gira l'elica e vedere come va a marcia indietro
+
+Da evitare
+===========
+
+* teak in coperta
 
 Dotazioni standard da verificare
 =================================================
